@@ -1,1 +1,2 @@
 # Contact-management-system
+Transforming the way you manage Outlook contacts, my bespoke PowerShell Command Line Interface (CLI) redefines efficiency. Seamlessly categorize and store contacts for business, home, or work/school purposes with unparalleled ease. This innovative tool streamlines the process, offering a user-friendly solution for organizing and accessing your contacts effortlessly. Say goodbye to cumbersome manual processes and embrace a more streamlined approach to contact management with my custom-built PowerShell CLI.
